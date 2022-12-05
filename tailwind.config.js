@@ -7,12 +7,23 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: 'Poppins, -apple-system, BlinkMacSystemFont',
+        sans: 'Jost, sans-serif',
+        serif: 'Lora, serif',
       },
       colors: {
         gray: {
           ...config.colors.gray,
+          50: '#E6E6E6',
           200: '#F4F4F4',
+          300: '#F6F7F8',
+          400: '#727272',
+          500: '#919BAA',
+          700: '#989898',
+          900: '#0C0C0C',
+        },
+        green: {
+          ...config.colors.green,
+          500: '#0AC958',
         },
       },
     },

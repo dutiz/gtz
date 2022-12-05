@@ -3,15 +3,15 @@ import Head from 'next/head'
 
 import FooterSection from '../sections/FooterSection'
 
-const Navigation = dynamic(() => import('@/components/layout/Navigation'), { ssr: false })
+const Navigation2 = dynamic(() => import('@/components/layout/Navigation2'), { ssr: false })
 
-export default function Layout({ children, title = null }) {
+export default function Layout2({ children, title = null }) {
   const dev = process.env.NODE_ENV === 'development'
 
   return (
     <>
       <Head>
-        <title>{title ? `${title} - Next Starter` : 'Next Starter'}</title>
+        <title>{title ? `${title} - GTZ MK` : 'GTZ MK'}</title>
 
         {/* Favicons */}
         <link rel="icon" href="/favicons/fav-32.ico" sizes="32x32" />
@@ -24,7 +24,7 @@ export default function Layout({ children, title = null }) {
       </Head>
       <div className={`font-sans antialiased flex flex-col ${dev ? 'debug-screens' : ''}`}>
         {/* Navigation here */}
-        <Navigation />
+        <Navigation2 />
 
         {children}
 
