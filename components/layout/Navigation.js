@@ -79,7 +79,7 @@ export default function Navigation() {
                 Products
               </NavItem>
               <NavItem
-                href="/contacts"
+                href="/contact"
                 className={`${color ? 'text-black' : 'text-black md:text-white'} `}
               >
                 Contact
@@ -91,7 +91,7 @@ export default function Navigation() {
               href="tel:0038970848843"
               className={`inline-block px-10 py-5 bg-transparent hover:bg-green-500 ${
                 color ? 'text-black border-black' : 'text-white border-white'
-              } border border-white hover:border-green-500 hover:text-white rounded-3xl transition-all ease-in-out duration-500`}
+              } border hover:border-green-500 hover:text-white rounded-3xl transition-all ease-in-out duration-500`}
             >
               00389 70 848 843
             </a>

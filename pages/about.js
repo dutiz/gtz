@@ -2,11 +2,11 @@ import Image from 'next/image'
 
 import QuotationSection from '@/components/sections/QuotationSection'
 import TeamSection from '@/components/sections/TeamSection'
-import Layout from '@/layout/Layout'
+import Layout2 from '@/layout/Layout2'
 
 export default function about() {
   return (
-    <Layout title="About">
+    <Layout2 title="About">
       <div className="container">
         <div className="items-center row my-20">
           <div className="md:col-6 mt-5 md:mt-0 md:text-right text-center">
@@ -40,6 +40,6 @@ export default function about() {
       </div>
       <TeamSection />
       <QuotationSection />
-    </Layout>
+    </Layout2>
   )
 }

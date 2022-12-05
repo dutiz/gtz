@@ -1,11 +1,11 @@
 import SVG from 'react-inlinesvg'
 
 import Button from '@/components/Button'
-import Layout from '@/layout/Layout'
+import Layout2 from '@/layout/Layout2'
 
 export default function contact() {
   return (
-    <Layout title="Contact">
+    <Layout2 title="Contact">
       <div
         className="flex items-center"
         style={{
@@ -69,6 +69,6 @@ export default function contact() {
           </div>
         </div>
       </div>
-    </Layout>
+    </Layout2>
   )
 }

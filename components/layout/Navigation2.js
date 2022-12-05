@@ -42,7 +42,7 @@ export default function Navigation2() {
               <NavItem href="/">Home</NavItem>
               <NavItem href="/about">About</NavItem>
               <NavItem href="/products">Products</NavItem>
-              <NavItem href="/contacts">Contact</NavItem>
+              <NavItem href="/contact">Contact</NavItem>
             </ul>
           </div>
           <div className="md:col-4 md:flex hidden items-center justify-end">
