@@ -22,10 +22,7 @@ export default function HeaderSection() {
                 When You can make it all from iron
               </p>
               <Link href="/contact" legacyBehavior>
-                <a
-                  href="tel:0038970848843"
-                  className="uppercase mt-5 inline-block px-10 py-5 bg-transparent hover:bg-green-500 text-white border border-white hover:border-green-500 rounded-3xl transition-all ease-in-out duration-500"
-                >
+                <a className="uppercase mt-5 inline-block px-10 py-5 bg-transparent hover:bg-green-500 text-white border border-white hover:border-green-500 rounded-3xl transition-all ease-in-out duration-500">
                   Contact Us
                 </a>
               </Link>
