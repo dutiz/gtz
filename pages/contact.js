@@ -35,7 +35,7 @@ export default function contact() {
             </div>
             <div className="md:col-6 my-8 md:my-0 bg-white py-5">
               <h2 className="text-4xl font-semibold">Send a request</h2>
-              <form name="Contact" className="mt-5" data-netlify="true">
+              <form name="Contact" className="mt-5" action="POST" data-netlify="true">
                 <input
                   type="text"
                   name="fullName"
