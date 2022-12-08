@@ -8,7 +8,7 @@ import Layout2 from '../components/layout/Layout2'
 import items from '../content/products'
 
 export default function Products() {
-  const [category, setCategory] = useState('Stairs')
+  const [category, setCategory] = useState('House')
   const categories = items.items.find((i) => i.name === category)
   return (
     <Layout2 title="Products">
