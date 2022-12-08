@@ -52,7 +52,7 @@ export default function Navigation2() {
               href="tel:0038970848843"
               className={`inline-block px-10 py-5 bg-transparent hover:bg-green-500 text-black border border-black hover:border-green-500 hover:text-white rounded-3xl transition-all ease-in-out duration-500`}
             >
-              00389 70 848 843
+              +389 70 848 843
             </a>
           </div>
         </div>

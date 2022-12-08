@@ -97,7 +97,7 @@ export default function Navigation() {
                 color ? 'text-black border-black' : 'text-white border-white'
               } border hover:border-green-500 hover:text-white rounded-3xl transition-all ease-in-out duration-500`}
             >
-              00389 70 848 843
+              +389 70 848 843
             </a>
           </div>
         </div>
