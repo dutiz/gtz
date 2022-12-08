@@ -27,12 +27,18 @@ export default function FooterSection() {
               href="https://www.facebook.com/profile.php?id=100083262351167"
               target="_blank"
               rel="noreferrer"
-              className="mt-9 ml-8 text-gray-700"
+              className="block mt-9 ml-8 text-gray-700"
             >
               Facebook
             </a>
-            <p className="mt-5 ml-8 text-gray-700">Instagram</p>
-            <p className="mt-5 ml-8 text-gray-700">Twitter</p>
+            <a
+              href="https://www.instagram.com/gtz.mk/"
+              target="_blank"
+              rel="norefferer noreferrer"
+              className="block mt-5 ml-8 text-gray-700"
+            >
+              Instagram
+            </a>
           </div>
         </div>
       </div>
