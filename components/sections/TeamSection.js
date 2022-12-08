@@ -10,17 +10,11 @@ export default function TeamSection() {
           </div>
         </div>
         <div className="row mt-12">
-          <TeamCart avatar="team-1.png" position="Founder & CEO">
-            Mildred Reed
+          <TeamCart avatar="avatar.png" position="Founder & CEO">
+            Hamdi Zaimi
           </TeamCart>
-          <TeamCart avatar="team-1.png" position="Founder & CEO">
-            Mildred Reed
-          </TeamCart>
-          <TeamCart avatar="team-1.png" position="Founder & CEO">
-            Mildred Reed
-          </TeamCart>
-          <TeamCart avatar="team-1.png" position="Founder & CEO">
-            Mildred Reed
+          <TeamCart avatar="avatar.png" position="IT Support">
+            Daut Zaimi
           </TeamCart>
         </div>
       </div>
