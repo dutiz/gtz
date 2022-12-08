@@ -21,7 +21,9 @@ export default function Navigation2() {
       <div className="container">
         <div className="row py-6 justify-between items-center">
           <div className="col-4">
-            <p className="font-bold text-black text-2xl">GTZ</p>
+            <Link href="/">
+              <p className="font-bold text-black text-2xl">GTZ</p>
+            </Link>
           </div>
           <div className="col-2 md:hidden block">
             <label htmlFor="menu-toggle" className="cursor-pointer">

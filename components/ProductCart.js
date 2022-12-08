@@ -12,7 +12,7 @@ export default function ProductCart({ image, children }) {
           <p className="text-xl">{children}</p>
         </div>
         <Image
-          src={`/images/${image}`}
+          src={image}
           width={438}
           height={400}
           className="w-full h-full object-cover"

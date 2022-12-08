@@ -38,11 +38,15 @@ export default function Navigation() {
       <div className="container">
         <div className="row py-6 justify-between items-center">
           <div className="col-4">
-            <p
-              className={`font-bold ${color ? 'text-black' : 'text-black md:text-white'} text-2xl`}
-            >
-              GTZ
-            </p>
+            <Link href="/">
+              <p
+                className={`font-bold ${
+                  color ? 'text-black' : 'text-black md:text-white'
+                } text-2xl`}
+              >
+                GTZ
+              </p>
+            </Link>
           </div>
           <div className="col-2 md:hidden block">
             <label htmlFor="menu-toggle" className="cursor-pointer">
