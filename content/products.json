@@ -18,6 +18,18 @@
         {
           "name": "House5",
           "image": "/images/products/houses/house5-1.jpeg"
+        },
+        {
+          "name": "House6",
+          "image": "/images/products/houses/house-6.jpg"
+        },
+        {
+          "name": "House7",
+          "image": "/images/products/houses/house-7.jpg"
+        },
+        {
+          "name": "House8",
+          "image": "/images/products/houses/house-8.jpg"
         }
       ]
     },
@@ -35,6 +47,34 @@
         {
           "name": "Decoration 3",
           "image": "/images/products/decorations/decoration-3.jpeg"
+        },
+        {
+          "name": "Decoration 4",
+          "image": "/images/products/decorations/decoration-4.jpeg"
+        },
+        {
+          "name": "Decoration 5",
+          "image": "/images/products/decorations/decoration-5.jpeg"
+        },
+        {
+          "name": "Decoration 6",
+          "image": "/images/products/decorations/decoration-6.jpeg"
+        },
+        {
+          "name": "Decoration 7",
+          "image": "/images/products/decorations/decoration-7.jpeg"
+        },
+        {
+          "name": "Decoration 8",
+          "image": "/images/products/decorations/decoration-8.jpeg"
+        },
+        {
+          "name": "Decoration 9",
+          "image": "/images/products/decorations/decoration-9.jpeg"
+        },
+        {
+          "name": "Decoration 10",
+          "image": "/images/products/decorations/decoration-10.jpeg"
         }
       ]
     },
