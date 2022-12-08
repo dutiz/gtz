@@ -6,7 +6,7 @@ export default function QuotationSection() {
       <div className="row justify-center my-12">
         <div className="md:col-8">
           <h2 className="uppercase font-bold text-4xl text-center">Request a free quotation</h2>
-          <form name="Quotation" netlify="true">
+          <form name="Quotation" data-netlify="true">
             <div className="row mt-8">
               <div className="col-6">
                 <input
