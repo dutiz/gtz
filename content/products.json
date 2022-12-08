@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "name": "House",
+      "items": [
+        {
+          "name": "House2",
+          "image": "/images/products/houses/house-2.jpeg"
+        },
+        {
+          "name": "House3",
+          "image": "/images/products/houses/house3-1.jpeg"
+        },
+        {
+          "name": "House4",
+          "image": "/images/products/houses/house4-1.jpeg"
+        },
+        {
+          "name": "House5",
+          "image": "/images/products/houses/house5-1.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Decorations",
+      "items": [
+        {
+          "name": "Decoration 1",
+          "image": "/images/products/decorations/decoration-1.jpeg"
+        },
+        {
+          "name": "Decoration 2",
+          "image": "/images/products/decorations/decoration-2.jpeg"
+        },
+        {
+          "name": "Decoration 3",
+          "image": "/images/products/decorations/decoration-3.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Stairs",
+      "items": [
+        {
+          "name": "Stair 1",
+          "image": "/images/products/stairs/stairs-1.jpeg"
+        },
+        {
+          "name": "Stair 2",
+          "image": "/images/products/stairs/stairs-2.jpeg"
+        },
+        {
+          "name": "Stair 3",
+          "image": "/images/products/stairs/stairs-3.jpeg"
+        },
+        {
+          "name": "Stair 4",
+          "image": "/images/products/stairs/stairs-4.jpeg"
+        },
+        {
+          "name": "Stair 5",
+          "image": "/images/products/stairs/stairs-5.jpeg"
+        },
+        {
+          "name": "Stair 6",
+          "image": "/images/products/stairs/stairs-6.jpeg"
+        },
+        {
+          "name": "Stair 7",
+          "image": "/images/products/stairs/stairs-7.jpeg"
+        },
+        {
+          "name": "Stair 8",
+          "image": "/images/products/stairs/stairs-8.jpeg"
+        },
+        {
+          "name": "Stair 9",
+          "image": "/images/products/stairs/stairs-9.jpeg"
+        },
+        {
+          "name": "Stair 10",
+          "image": "/images/products/stairs/stairs-10.jpeg"
+        },
+        {
+          "name": "Stair 11",
+          "image": "/images/products/stairs/stairs-11.jpeg"
+        },
+        {
+          "name": "Stair 12",
+          "image": "/images/products/stairs/stairs-12.jpeg"
+        },
+        {
+          "name": "Stair 13",
+          "image": "/images/products/stairs/stairs-13.jpeg"
+        },
+        {
+          "name": "Stair 14",
+          "image": "/images/products/stairs/stairs-14.jpeg"
+        },
+        {
+          "name": "Stair 15",
+          "image": "/images/products/stairs/stairs-15.jpeg"
+        },
+        {
+          "name": "Stair 16",
+          "image": "/images/products/stairs/stairs-16.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Smart Parking",
+      "items": [
+        {
+          "name": "SmartParking1",
+          "image": "/images/products/parking/smart-parking-1.jpeg"
+        },
+        {
+          "name": "SmartParking2",
+          "image": "/images/products/parking/smart-parking-2.jpeg"
+        },
+        {
+          "name": "SmartParking3",
+          "image": "/images/products/parking/smart-parking-3.jpeg"
+        },
+        {
+          "name": "SmartParking4",
+          "image": "/images/products/parking/smart-parking-4.jpeg"
+        },
+        {
+          "name": "SmartParking5",
+          "image": "/images/products/parking/smart-parking-5.jpeg"
+        },
+        {
+          "name": "SmartParking6",
+          "image": "/images/products/parking/smart-parking-6.jpeg"
+        },
+        {
+          "name": "SmartParking7",
+          "image": "/images/products/parking/smart-parking-7.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "Smart Containers",
+      "items": [
+        {
+          "name": "SmartContainer1",
+          "image": "/images/smart-container.jpeg"
+        }
+      ]
+    }
+  ]
+}
