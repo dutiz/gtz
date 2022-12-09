@@ -7,7 +7,7 @@ export default function ProductCarts({ image }) {
         src={image}
         width={438}
         height={400}
-        className="w-full h-full object-cover"
+        className="mt-8 w-full h-full object-cover"
         alt="products"
         style={{ maxHeight: '400px' }}
       />
