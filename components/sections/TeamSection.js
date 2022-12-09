@@ -14,7 +14,7 @@ export default function TeamSection() {
             H. Zaimi
           </TeamCart>
           <TeamCart avatar="woman-avatar.jpg" position="CEO">
-            Fatmire Zaimi
+            F. Zaimi
           </TeamCart>
           <TeamCart avatar="avatar.png" position="Manager">
             Ismet Arsllani

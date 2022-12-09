@@ -18,12 +18,13 @@ export default function about() {
               GTZ Company located in Gostivar, North Macedonia with 30 years experience in the
               production of industrial machines in Switzerland we offer:
             </p>
+            <p className="text-justify mt-5">- The Production of different industrial machines,</p>
+            <p className="text-justify mt-5">- Design, </p>{' '}
             <p className="text-justify mt-5">
-              The Production of different industrial machines, Design, Ornaments for different
-              interiors according to the customers request.{' '}
+              - Ornaments for different interiors according to the customers request.
             </p>
             <p className="text-justify mt-5">
-              The use of SMART systems for controlling of the machines.{' '}
+              - The use of SMART systems for controlling of the machines.{' '}
             </p>
             <p className="text-justify mt-5">Monitoring and servicing 24/7 online.</p>
           </div>

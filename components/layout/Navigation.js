@@ -41,7 +41,9 @@ export default function Navigation() {
             <Link href="/">
               <SVG
                 src="/svg/logo.svg"
-                className={`w-20 h-auto fill-current ${color ? 'text-black' : 'text-white'}`}
+                className={`w-20 h-auto fill-current ${
+                  color ? 'text-black' : 'text-black md:text-white'
+                }`}
               />
             </Link>
           </div>

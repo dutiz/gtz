@@ -22,7 +22,7 @@ export default function Products() {
             <Button onClick={() => setCategory('Smart Containers')}>Smart Containers</Button>
           </div>
         </div>
-        <div className="row my-8">
+        <div className="row">
           {categories.items.map((item) => (
             <ProductCarts key={item.name} image={item.image}></ProductCarts>
           ))}
