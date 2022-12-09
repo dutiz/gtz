@@ -15,7 +15,7 @@ export default function about() {
               We are a <br /> creative build -<br /> design company
             </h1>
             <p className="mt-5 text-justify">
-              GTZ Company located in Gostivar, North Macedonia with 30 year experience in the
+              GTZ Company located in Gostivar, North Macedonia with 30 years experience in the
               production of industrial machines in Switzerland we offer:
             </p>
             <p className="text-justify mt-5">
