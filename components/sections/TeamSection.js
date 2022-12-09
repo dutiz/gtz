@@ -11,7 +11,13 @@ export default function TeamSection() {
         </div>
         <div className="row mt-12">
           <TeamCart avatar="avatar.png" position="Founder & CEO">
-            Hamdi Zaimi
+            H. Zaimi
+          </TeamCart>
+          <TeamCart avatar="woman-avatar.jpg" position="CEO">
+            Fatmire Zaimi
+          </TeamCart>
+          <TeamCart avatar="avatar.png" position="Manager">
+            Ismet Arsllani
           </TeamCart>
           <TeamCart avatar="avatar.png" position="IT Support">
             Daut Zaimi
