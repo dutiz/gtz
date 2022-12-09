@@ -39,13 +39,10 @@ export default function Navigation() {
         <div className="row py-6 justify-between items-center">
           <div className="col-4">
             <Link href="/">
-              <p
-                className={`font-bold ${
-                  color ? 'text-black' : 'text-black md:text-white'
-                } text-2xl`}
-              >
-                GTZ
-              </p>
+              <SVG
+                src="/svg/logo.svg"
+                className={`w-20 h-auto fill-current ${color ? 'text-black' : 'text-white'}`}
+              />
             </Link>
           </div>
           <div className="col-2 md:hidden block">

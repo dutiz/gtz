@@ -22,7 +22,7 @@ export default function Navigation2() {
         <div className="row py-6 justify-between items-center">
           <div className="col-4">
             <Link href="/">
-              <p className="font-bold text-black text-2xl">GTZ</p>
+              <SVG src="/svg/logo.svg" className="w-20 h-auto fill-current text-black" />
             </Link>
           </div>
           <div className="col-2 md:hidden block">
