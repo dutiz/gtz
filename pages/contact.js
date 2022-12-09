@@ -40,7 +40,7 @@ export default function contact() {
                   type="text"
                   name="fullName"
                   placeholder="Full Name"
-                  className="py-2 pl-4 w-full border rounded-sm placeholder-gray-400"
+                  className="mt-5 py-2 pl-4 w-full border rounded-sm placeholder-gray-400"
                 />
                 <input
                   type="text"

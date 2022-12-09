@@ -4,6 +4,10 @@
       "name": "House",
       "items": [
         {
+          "name": "House1",
+          "image": "/images/products/houses/house-9.jpg"
+        },
+        {
           "name": "House2",
           "image": "/images/products/houses/house-2.jpeg"
         },
@@ -25,7 +29,7 @@
         },
         {
           "name": "House7",
-          "image": "/images/products/houses/house-7.jpg"
+          "image": "/images/products/houses/house-7.jpeg"
         },
         {
           "name": "House8",
@@ -75,6 +79,10 @@
         {
           "name": "Decoration 10",
           "image": "/images/products/decorations/decoration-10.jpeg"
+        },
+        {
+          "name": "Decoration 11",
+          "image": "/images/products/decorations/decoration-11.jpg"
         }
       ]
     },
