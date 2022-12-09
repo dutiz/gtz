@@ -1,6 +1,5 @@
 import SVG from 'react-inlinesvg'
 
-import Button from '@/components/Button'
 import Layout2 from '@/layout/Layout2'
 
 export default function contact() {
@@ -35,7 +34,8 @@ export default function contact() {
             </div>
             <div className="md:col-6 my-8 md:my-0 bg-white py-5">
               <h2 className="text-4xl font-semibold">Send a request</h2>
-              <form name="Contact" className="mt-5" method="POST" data-netlify="true">
+              <form name="contact" action="/success" method="POST" data-netlify="true">
+                <input type="hidden" name="form-name" value="contact" />
                 <input
                   type="text"
                   name="fullName"
@@ -62,7 +62,12 @@ export default function contact() {
                   className="w-full py-2 pl-4 border rounded-sm mt-5"
                 />
                 <div className="flex justify-center">
-                  <Button type="submit">Submit</Button>
+                  <button
+                    type="submit"
+                    className="uppercase mt-5 px-10 py-5 bg-gray-900 hover:bg-green-500 text-white rounded-b-3xl transition-all ease-in-out duration-500"
+                  >
+                    Submit
+                  </button>
                 </div>
               </form>
             </div>
