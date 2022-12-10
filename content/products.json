@@ -194,6 +194,18 @@
         {
           "name": "SmartContainer1",
           "image": "/images/smart-container.jpeg"
+        },
+        {
+          "name": "SmartContainer1",
+          "image": "/images/products/smart-containers/container-2.jpg"
+        },
+        {
+          "name": "SmartContainer1",
+          "image": "/images/products/smart-containers/container-3.jpg"
+        },
+        {
+          "name": "SmartContainer1",
+          "image": "/images/products/smart-containers/container-4.jpg"
         }
       ]
     }
