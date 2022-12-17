@@ -34,7 +34,7 @@ export default function HeaderSection() {
         src="/images/layer.png"
         width={1400}
         height={200}
-        className="hidden lg:block absolute inset-x-0 bottom-0 w-full h-auto"
+        className="hidden lg:block absolute inset-x-0 bottom-14 w-full h-auto"
         alt="layer"
       />
     </>

@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { useState } from 'react'
 
 import Button from '@/components/Button'
@@ -27,6 +28,17 @@ export default function Products() {
             <ProductCarts key={item.name} image={item.image}></ProductCarts>
           ))}
         </div>
+        {category === 'House' ? (
+          <div className="row">
+            <div className="col-12">
+              <Link href="/pdf/catalogue.pdf" target="_blank">
+                <h3 className="mt-5 text-xl font-semibold hover:underline">See our catalogue</h3>
+              </Link>
+            </div>
+          </div>
+        ) : (
+          ''
+        )}
       </div>
       <QuotationSection />
     </Layout2>
