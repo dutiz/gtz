@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 export default function ProductCart({ image, children }) {
   return (
-    <div className="md:col-4 relative">
+    <div className="md:col-2 relative">
       <Link href="/products">
         <div
           className="absolute inset-0 flex flex-col items-center justify-center bg-black hover:bg-transparent  text-white hover:text-transparent bg-opacity-75

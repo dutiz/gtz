@@ -21,6 +21,12 @@ export default function Products() {
             <Button onClick={() => setCategory('Decorations')}>Decorations</Button>
             <Button onClick={() => setCategory('Smart Parking')}>Smart Parking</Button>
             <Button onClick={() => setCategory('Smart Containers')}>Smart Containers</Button>
+            <Button onClick={() => setCategory('Fountains')}>Fountains</Button>
+            <Button onClick={() => setCategory('Chairs and Tables')}>Chairs and Tables</Button>
+            <Button onClick={() => setCategory('Lighting')}>Lighting</Button>
+            <Button onClick={() => setCategory('Fireplaces')}>Fireplaces</Button>
+            <Button onClick={() => setCategory('Pergola')}>Pergola</Button>
+            <Button onClick={() => setCategory('Doors / Frames')}>Doors / Frames</Button>
           </div>
         </div>
         <div className="row">

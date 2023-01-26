@@ -41,6 +41,102 @@
       "name": "Decorations",
       "items": [
         {
+          "name": "Decoration 12",
+          "image": "/images/products/decorations/decoration-12.jpg"
+        },
+        {
+          "name": "Decoration 13",
+          "image": "/images/products/decorations/decoration-13.jpg"
+        },
+        {
+          "name": "Decoration 14",
+          "image": "/images/products/decorations/decoration-14.jpg"
+        },
+        {
+          "name": "Decoration 15",
+          "image": "/images/products/decorations/decoration-15.jpg"
+        },
+        {
+          "name": "Decoration 16",
+          "image": "/images/products/decorations/decoration-16.jpg"
+        },
+        {
+          "name": "Decoration 17",
+          "image": "/images/products/decorations/decoration-17.jpg"
+        },
+        {
+          "name": "Decoration 18",
+          "image": "/images/products/decorations/decoration-18.jpg"
+        },
+        {
+          "name": "Decoration 19",
+          "image": "/images/products/decorations/decoration-19.jpg"
+        },
+        {
+          "name": "Decoration 20",
+          "image": "/images/products/decorations/decoration-20.jpg"
+        },
+        {
+          "name": "Decoration 21",
+          "image": "/images/products/decorations/decoration-21.jpg"
+        },
+        {
+          "name": "Decoration 22",
+          "image": "/images/products/decorations/decoration-22.jpg"
+        },
+        {
+          "name": "Decoration 23",
+          "image": "/images/products/decorations/decoration-23.jpg"
+        },
+        {
+          "name": "Decoration 24",
+          "image": "/images/products/decorations/decoration-24.jpg"
+        },
+        {
+          "name": "Decoration 25",
+          "image": "/images/products/decorations/decoration-25.jpg"
+        },
+        {
+          "name": "Decoration 26",
+          "image": "/images/products/decorations/decoration-26.jpg"
+        },
+        {
+          "name": "Decoration 27",
+          "image": "/images/products/decorations/decoration-27.jpg"
+        },
+        {
+          "name": "Decoration 28",
+          "image": "/images/products/decorations/decoration-28.jpg"
+        },
+        {
+          "name": "Decoration 29",
+          "image": "/images/products/decorations/decoration-29.jpg"
+        },
+        {
+          "name": "Decoration 30",
+          "image": "/images/products/decorations/decoration-30.jpg"
+        },
+        {
+          "name": "Decoration 31",
+          "image": "/images/products/decorations/decoration-31.jpg"
+        },
+        {
+          "name": "Decoration 32",
+          "image": "/images/products/decorations/decoration-32.jpg"
+        },
+        {
+          "name": "Decoration 33",
+          "image": "/images/products/decorations/decoration-33.jpg"
+        },
+        {
+          "name": "Decoration 34",
+          "image": "/images/products/decorations/decoration-34.jpg"
+        },
+        {
+          "name": "Decoration 1",
+          "image": "/images/products/decorations/decoration-1.jpeg"
+        },
+        {
           "name": "Decoration 1",
           "image": "/images/products/decorations/decoration-1.jpeg"
         },
@@ -89,6 +185,26 @@
     {
       "name": "Stairs",
       "items": [
+        {
+          "name": "Stair 20",
+          "image": "/images/products/stairs/stairs-20.jpg"
+        },
+        {
+          "name": "Stair 19",
+          "image": "/images/products/stairs/stairs-19.jpg"
+        },
+        {
+          "name": "Stair 18",
+          "image": "/images/products/stairs/stairs-18.jpg"
+        },
+        {
+          "name": "Stair 17",
+          "image": "/images/products/stairs/stairs-17.jpg"
+        },
+        {
+          "name": "Stair 21",
+          "image": "/images/products/stairs/stairs-21.jpg"
+        },
         {
           "name": "Stair 1",
           "image": "/images/products/stairs/stairs-1.jpeg"
@@ -159,6 +275,14 @@
       "name": "Smart Parking",
       "items": [
         {
+          "name": "SmartParking9",
+          "image": "/images/products/parking/smart-parking-9.jpg"
+        },
+        {
+          "name": "SmartParking8",
+          "image": "/images/products/parking/smart-parking-8.jpg"
+        },
+        {
           "name": "SmartParking1",
           "image": "/images/products/parking/smart-parking-1.jpeg"
         },
@@ -206,6 +330,256 @@
         {
           "name": "SmartContainer1",
           "image": "/images/products/smart-containers/container-4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Lighting",
+      "items": [
+        {
+          "name": "Lighting1",
+          "image": "/images/products/lighting/1.jpg"
+        },
+        {
+          "name": "Lighting2",
+          "image": "/images/products/lighting/2.jpg"
+        },
+        {
+          "name": "Lighting3",
+          "image": "/images/products/lighting/3.jpg"
+        },
+        {
+          "name": "Lighting4",
+          "image": "/images/products/lighting/4.jpg"
+        },
+        {
+          "name": "Lighting5",
+          "image": "/images/products/lighting/5.jpg"
+        },
+        {
+          "name": "Lighting6",
+          "image": "/images/products/lighting/6.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fountains",
+      "items": [
+        {
+          "name": "Fountain-1",
+          "image": "/images/products/fountains/fountain-1.jpg"
+        },
+        {
+          "name": "Fountain-2",
+          "image": "/images/products/fountains/fountain-2.jpg"
+        },
+        {
+          "name": "Fountain-2",
+          "image": "/images/products/fountains/fountain-2.jpg"
+        },
+        {
+          "name": "Fountain-3",
+          "image": "/images/products/fountains/fountain-3.jpg"
+        },
+        {
+          "name": "Fountain-4",
+          "image": "/images/products/fountains/fountain-4.jpg"
+        },
+        {
+          "name": "Fountain-5",
+          "image": "/images/products/fountains/fountain-5.jpg"
+        },
+        {
+          "name": "Fountain-6",
+          "image": "/images/products/fountains/fountain-6.jpg"
+        },
+        {
+          "name": "Fountain-7",
+          "image": "/images/products/fountains/fountain-7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fireplaces",
+      "items": [
+        {
+          "name": "Fireplace-1",
+          "image": "/images/products/fireplaces/fireplaces-1.jpg"
+        },
+        {
+          "name": "Fireplace-2",
+          "image": "/images/products/fireplaces/fireplaces-2.jpg"
+        },
+        {
+          "name": "Fireplace-3",
+          "image": "/images/products/fireplaces/fireplaces-3.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Chairs and Tables",
+      "items": [
+        {
+          "name": "table1",
+          "image": "/images/products/chairs-tables/1.jpg"
+        },
+        {
+          "name": "table2",
+          "image": "/images/products/chairs-tables/2.jpg"
+        },
+        {
+          "name": "table3",
+          "image": "/images/products/chairs-tables/3.jpg"
+        },
+        {
+          "name": "table4",
+          "image": "/images/products/chairs-tables/4.jpg"
+        },
+        {
+          "name": "table5",
+          "image": "/images/products/chairs-tables/5.jpg"
+        },
+        {
+          "name": "table6",
+          "image": "/images/products/chairs-tables/6.jpg"
+        },
+        {
+          "name": "table7",
+          "image": "/images/products/chairs-tables/7.jpg"
+        },
+        {
+          "name": "table8",
+          "image": "/images/products/chairs-tables/8.jpg"
+        },
+        {
+          "name": "table9",
+          "image": "/images/products/chairs-tables/9.jpg"
+        },
+        {
+          "name": "table10",
+          "image": "/images/products/chairs-tables/10.jpg"
+        },
+        {
+          "name": "table11",
+          "image": "/images/products/chairs-tables/11.jpg"
+        },
+        {
+          "name": "table12",
+          "image": "/images/products/chairs-tables/12.jpg"
+        },
+        {
+          "name": "table13",
+          "image": "/images/products/chairs-tables/13.jpg"
+        },
+        {
+          "name": "table14",
+          "image": "/images/products/chairs-tables/14.jpg"
+        },
+        {
+          "name": "table15",
+          "image": "/images/products/chairs-tables/15.jpg"
+        },
+        {
+          "name": "table16",
+          "image": "/images/products/chairs-tables/16.jpg"
+        },
+        {
+          "name": "table17",
+          "image": "/images/products/chairs-tables/17.jpg"
+        },
+        {
+          "name": "table18",
+          "image": "/images/products/chairs-tables/18.jpg"
+        },
+        {
+          "name": "table19",
+          "image": "/images/products/chairs-tables/19.jpg"
+        },
+        {
+          "name": "table20",
+          "image": "/images/products/chairs-tables/20.jpg"
+        },
+        {
+          "name": "table21",
+          "image": "/images/products/chairs-tables/21.jpg"
+        },
+        {
+          "name": "table22",
+          "image": "/images/products/chairs-tables/22.jpg"
+        },
+        {
+          "name": "table23",
+          "image": "/images/products/chairs-tables/23.jpg"
+        },
+        {
+          "name": "table24",
+          "image": "/images/products/chairs-tables/24.jpg"
+        },
+        {
+          "name": "table25",
+          "image": "/images/products/chairs-tables/25.jpg"
+        },
+        {
+          "name": "table26",
+          "image": "/images/products/chairs-tables/26.jpg"
+        },
+        {
+          "name": "table27",
+          "image": "/images/products/chairs-tables/27.jpg"
+        },
+        {
+          "name": "table28",
+          "image": "/images/products/chairs-tables/28.jpg"
+        },
+        {
+          "name": "table29",
+          "image": "/images/products/chairs-tables/29.jpg"
+        },
+        {
+          "name": "table30",
+          "image": "/images/products/chairs-tables/30.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Doors / Frames",
+      "items": [
+        {
+          "name": "door-1",
+          "image": "/images/products/doorsframmes/door-1.jpg"
+        },
+        {
+          "name": "door-2",
+          "image": "/images/products/doorsframmes/door-2.jpg"
+        },
+        {
+          "name": "door-2",
+          "image": "/images/products/doorsframmes/door-2.jpg"
+        },
+        {
+          "name": "door-3",
+          "image": "/images/products/doorsframmes/door-3.jpg"
+        },
+        {
+          "name": "door-4",
+          "image": "/images/products/doorsframmes/door-4.jpg"
+        },
+        {
+          "name": "door-5",
+          "image": "/images/products/doorsframmes/door-5.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pergola",
+      "items": [
+        {
+          "name": "pergola-1",
+          "image": "/images/products/pergola/1.jpg"
+        },
+        {
+          "name": "pergola-2",
+          "image": "/images/products/pergola/2.jpg"
         }
       ]
     }
