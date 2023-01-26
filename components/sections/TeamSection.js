@@ -16,9 +16,6 @@ export default function TeamSection() {
           <TeamCart avatar="woman-avatar.jpg" position="CEO">
             F. Zaimi
           </TeamCart>
-          <TeamCart avatar="avatar.png" position="Manager">
-            Ismet Arsllani
-          </TeamCart>
           <TeamCart avatar="avatar.png" position="IT Support">
             Daut Zaimi
           </TeamCart>
