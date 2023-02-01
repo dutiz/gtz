@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fontsource/jost": "^4.5.12",
-    "@next/font": "^13.0.6",
+    "@next/font": "^13.1.6",
     "autoprefixer": "^10.4.8",
     "next": "^13.0.6",
     "next-seo": "^5.5.0",
