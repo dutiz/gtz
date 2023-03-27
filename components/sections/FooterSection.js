@@ -12,7 +12,7 @@ export default function FooterSection() {
           <div className="lg:col-4 flex flex-col order-last mt-5 md:mt-0 md:order-none">
             <SVG src="/svg/logo.svg" className="w-20 h-auto fill-current text-white" />
             <p className="mt-6 text-white">
-              &copy; 2022 GTZ MK. Made with ❤️{' '}
+              &copy; 2023 GTZ MK. Made with ❤️{' '}
               <a href="https://instagram.com/duti_z" target="_blank" rel="noreferrer">
                 Daut Zaimi
               </a>
