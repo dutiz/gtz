@@ -14,7 +14,7 @@ export default function FooterSection() {
             <p className="mt-6 text-white">
               &copy; 2022 GTZ MK. Made with ❤️{' '}
               <a href="https://instagram.com/duti_z" target="_blank" rel="noreferrer">
-                Daut Zaimi
+                UpHigh Dev.
               </a>
             </p>
           </div>

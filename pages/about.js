@@ -38,6 +38,26 @@ export default function about() {
             />
           </div>
         </div>
+        <div className="row justify-center">
+          <div className="lg:col-4">
+            <Image
+              src="/images/certifikate-1.jpg"
+              className="w-full h-auto"
+              alt="certificate"
+              width="541"
+              height={834}
+            />
+          </div>
+          <div className="lg:col-4 lg:mt-0 mt-5">
+            <Image
+              src="/images/certifikate-2.jpg"
+              className="w-full h-auto"
+              alt="certificate"
+              width="541"
+              height={834}
+            />
+          </div>
+        </div>
       </div>
       <TeamSection />
       <QuotationSection />
