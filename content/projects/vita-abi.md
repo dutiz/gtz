@@ -1,0 +1,21 @@
+---
+title: 'Restaurant Vita Abi'
+sector: 'Metal Roof'
+location: 'Gostivar, North Macedonia'
+image1: '/images/projects/vita-abi/1.jpg'
+alt1: 'img1'
+image2: '/images/projects/vita-abi/2.jpg'
+alt2: 'img2'
+image3: '/images/projects/vita-abi/3.jpg'
+alt3: 'img3'
+image4: ''
+alt4: ''
+image5: ''
+alt5: ''
+image6: ''
+alt6: ''
+image7: ''
+alt7: ''
+
+description: 'Restaurant Vita Abi is located around the Vardar River in Gostivar, built with metal construction and quality sandwich panels'
+---

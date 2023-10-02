@@ -4,7 +4,7 @@ export default function FooterSection() {
   return (
     <div
       style={{
-        background: `url('./images/footer-bg.png') no-repeat center center / cover`,
+        background: `url('/images/footer-bg.png') no-repeat center center / cover`,
       }}
     >
       <div className="container">

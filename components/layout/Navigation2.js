@@ -44,6 +44,7 @@ export default function Navigation2() {
               <NavItem href="/">Home</NavItem>
               <NavItem href="/about">About</NavItem>
               <NavItem href="/products">Products</NavItem>
+              <NavItem href="/projects">Projects</NavItem>
               <NavItem href="/contact">Contact</NavItem>
             </ul>
           </div>
