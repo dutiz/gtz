@@ -5,7 +5,7 @@ export default function HeaderSection() {
   return (
     <>
       <div
-        className="relative top-0 flex items-center w-full md:h-[780px] h-40"
+        className="relative top-0 flex items-center w-full md:h-[780px] h-[700px]"
         style={{
           background: `linear-gradient(0deg, rgba(17, 17, 17, 0.75), rgba(17, 17, 17, 0.75)), url('./images/header-img.png') no-repeat center center / cover`,
         }}
