@@ -89,6 +89,40 @@ export default function SingleProject({ project }) {
                     alt={project.alt7}
                   />
                 )}
+                {project.image9 === '' ? (
+                  <Image
+                    src={project.image9}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 hidden h-auto"
+                    alt={project.alt9}
+                  />
+                ) : (
+                  <Image
+                    src={project.image9}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 h-auto"
+                    alt={project.alt9}
+                  />
+                )}
+                {project.image10 === '' ? (
+                  <Image
+                    src={project.image10}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 hidden h-auto"
+                    alt={project.alt10}
+                  />
+                ) : (
+                  <Image
+                    src={project.image10}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 h-auto"
+                    alt={project.alt10}
+                  />
+                )}
               </div>
               <div className="md:col-6 mt-10">
                 <Image
@@ -130,6 +164,40 @@ export default function SingleProject({ project }) {
                     height={594}
                     className="w-full mt-8 h-auto"
                     alt={project.alt6}
+                  />
+                )}
+                {project.image8 === '' ? (
+                  <Image
+                    src={project.image8}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 hidden h-auto"
+                    alt={project.alt8}
+                  />
+                ) : (
+                  <Image
+                    src={project.image8}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 h-auto"
+                    alt={project.alt8}
+                  />
+                )}
+                {project.image11 === '' ? (
+                  <Image
+                    src={project.image11}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 hidden h-auto"
+                    alt={project.alt11}
+                  />
+                ) : (
+                  <Image
+                    src={project.image11}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 h-auto"
+                    alt={project.alt11}
                   />
                 )}
               </div>
