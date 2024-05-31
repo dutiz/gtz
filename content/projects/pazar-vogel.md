@@ -24,5 +24,7 @@ image10: ''
 alt10: ''
 image11: ''
 alt11: ''
+vid: ''
+alt: ''
 description: 'The shopping center Pazari i vogel is located in the center of Gostivar built with metal construction and high quality sandwich panels.'
 ---

@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Video from 'next-video'
 
 import Layout2 from '@/components/layout/Layout2'
 
@@ -199,6 +200,11 @@ export default function SingleProject({ project }) {
                     className="w-full mt-8 h-auto"
                     alt={project.alt11}
                   />
+                )}
+                {project.vid == '' ? (
+                  <Video className="w-full mt-8 hidden h-auto" src={project.vid} muted />
+                ) : (
+                  <Video className="w-full mt-8 h-auto" src={project.vid} muted />
                 )}
               </div>
             </div>

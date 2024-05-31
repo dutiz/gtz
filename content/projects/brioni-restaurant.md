@@ -24,5 +24,7 @@ image10: ''
 alt10: ''
 image11: ''
 alt11: ''
+vid: ''
+alt: ''
 description: 'Restaurant Brioni is located in Gostivar built with metal construction and high quality sandwich panels.'
 ---

@@ -24,5 +24,7 @@ image10: ''
 alt10: ''
 image11: ''
 alt11: ''
+vid: ''
+alt: ''
 description: 'Pizzeria Picasso is located around the Vardar River, it is built with metal construction and high quality sandwich panels, as well as with various metal decorations.'
 ---

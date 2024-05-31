@@ -24,6 +24,7 @@ image10: ''
 alt10: ''
 image11: ''
 alt11: ''
-
+vid: ''
+alt: ''
 description: 'Restaurant Vita Abi is located around the Vardar River in Gostivar, built with metal construction and quality sandwich panels'
 ---
