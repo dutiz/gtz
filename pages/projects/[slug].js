@@ -201,6 +201,23 @@ export default function SingleProject({ project }) {
                     alt={project.alt11}
                   />
                 )}
+                {project.image12 === '' ? (
+                  <Image
+                    src={project.image12}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 hidden h-auto"
+                    alt={project.alt12}
+                  />
+                ) : (
+                  <Image
+                    src={project.image12}
+                    width={446}
+                    height={594}
+                    className="w-full mt-8 h-auto"
+                    alt={project.alt12}
+                  />
+                )}
                 {project.vid == '' ? (
                   <Video className="w-full mt-8 hidden h-auto" src={project.vid} muted />
                 ) : (
