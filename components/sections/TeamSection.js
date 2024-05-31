@@ -16,7 +16,13 @@ export default function TeamSection() {
           F. Zaimi
         </TeamCart>
         <TeamCart avatar="avatar.png" position="IT Support">
-          Daut Zaimi
+          D. Zaimi
+        </TeamCart>
+        <TeamCart avatar="avatar.png" position="Product Manager">
+          Z. Xhaferi
+        </TeamCart>
+        <TeamCart avatar="avatar.png" position="Accountant">
+          Z. Manevski
         </TeamCart>
       </div>
     </div>
