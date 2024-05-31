@@ -76,6 +76,12 @@ export default function Navigation() {
                 About
               </NavItem>
               <NavItem
+                href="/machines"
+                className={`${color ? 'text-black' : 'text-black md:text-white'} `}
+              >
+                Machines
+              </NavItem>
+              <NavItem
                 href="/products"
                 className={`${color ? 'text-black' : 'text-black md:text-white'} `}
               >

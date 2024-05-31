@@ -43,6 +43,7 @@ export default function Navigation2() {
             <ul className="flex w-full p-5 flex-col md:w-auto md:p-0 md:flex-row items-center">
               <NavItem href="/">Home</NavItem>
               <NavItem href="/about">About</NavItem>
+              <NavItem href="/machines">Machines</NavItem>
               <NavItem href="/products">Products</NavItem>
               <NavItem href="/projects">Projects</NavItem>
               <NavItem href="/contact">Contact</NavItem>
