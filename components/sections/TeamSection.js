@@ -21,8 +21,11 @@ export default function TeamSection() {
         <TeamCart avatar="avatar.png" position="Product Manager">
           Z. Xhaferi
         </TeamCart>
-        <TeamCart avatar="avatar.png" position="Accountant">
-          Z. Manevski
+        <TeamCart avatar="avatar.png" position="Vertrieb DE">
+          Driton Zuferi
+        </TeamCart>
+        <TeamCart avatar="avatar.png" position="Vertrieb CH">
+          Miriman Zaimi
         </TeamCart>
       </div>
     </div>
