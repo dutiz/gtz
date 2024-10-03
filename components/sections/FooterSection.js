@@ -21,6 +21,8 @@ export default function FooterSection() {
           <div className="lg:col-4 md:col-6 mt-5">
             <h3 className="text-2xl text-white">Contact</h3>
             <p className="mt-9 text-gray-700">Gostivar , 1230 , North Macedonia</p>
+            <p className="mt-5 text-gray-700">Grosse Bahngasse 10 74072 Heilbronn , Germany</p>
+            <p className="mt-5 text-gray-700">Churerstrasse 174 9470 Buchs , Switzerland</p>
             <p className="mt-5 text-gray-700">T. +389 70 848 843</p>
             <p className="mt-5 text-gray-700">E. gtz.macedonia@gmail.com</p>
           </div>
