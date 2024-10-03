@@ -124,6 +124,16 @@ export default function SingleProject({ project }) {
                     alt={project.alt10}
                   />
                 )}
+                {project.vid2 == '' ? (
+                  <Video className="w-full mt-8 hidden h-auto" src={project.vid2} muted />
+                ) : (
+                  <Video className="w-full mt-8 h-auto" src={project.vid2} muted />
+                )}
+                {project.vid3 == '' ? (
+                  <Video className="w-full mt-8 hidden h-auto" src={project.vid3} muted />
+                ) : (
+                  <Video className="w-full mt-8 h-auto" src={project.vid3} muted />
+                )}
               </div>
               <div className="md:col-6 mt-10">
                 <Image
