@@ -17,8 +17,8 @@ export default function TeamCart({ avatar, position, vertrieb, adress, phonenr, 
           {clicked ? (
             <>
               <p className="mt-5">{adress} </p>
-              <p>Mail: {email} </p>
-              <p>Phone Number: {phonenr} </p>
+              <p className="sm:text-sm lg:text-base">Mail: {email} </p>
+              <p className="sm:text-sm lg:text-base">Phone Number: {phonenr} </p>
               <button onClick={() => useClicked(false)}>Show Less</button>
             </>
           ) : (
