@@ -24,16 +24,6 @@ export default function TeamSection() {
         <TeamCart
           avatar="avatar.png"
           vertrieb
-          adress="Grosse Bahngasse 10 74072 Heilbronn"
-          email="gtz.deutchland@gmail.com"
-          phonenr="+49 152 271 56 398"
-          position="Distribution DE"
-        >
-          Driton Zuferi
-        </TeamCart>
-        <TeamCart
-          avatar="avatar.png"
-          vertrieb
           adress="Churerstrasse 174 9470 Buchs"
           email="gtz.swiss@gmail.com"
           phonenr="+41 76 483 79 35"
