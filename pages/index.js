@@ -1,5 +1,6 @@
 import AboutSection from '@/components/sections/AboutSection'
 import HeaderSection from '@/components/sections/HeaderSection'
+import OfferSection from '@/components/sections/OfferSection'
 import ProductSection from '@/components/sections/ProductSection'
 import ProjectSection from '@/components/sections/ProjectSection'
 import QuotationSection from '@/components/sections/QuotationSection'
@@ -14,6 +15,8 @@ export default function Home({ projects }) {
     <Layout title="Home">
       {/* Header Section */}
       <HeaderSection />
+      {/* Offer Section */}
+      <OfferSection />
       {/* Service Section */}
       <ServiceSection />
       {/* About Section */}
